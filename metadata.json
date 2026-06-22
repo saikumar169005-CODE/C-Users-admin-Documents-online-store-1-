@@ -1,0 +1,6 @@
+{
+  "name": "Online Store",
+  "description": "An online store with product catalog, cart, checkout, role-based user management (Admin/User), and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
